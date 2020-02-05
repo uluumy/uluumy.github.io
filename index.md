@@ -1,6 +1,6 @@
 Bienvenue au Blog de la plateforme Uluumy
 
-![Image of fast.ai logo](images/uluumylogo.png)
+![](images/UluumyLogo.png)
 
 ## This is a title
 
