@@ -2,6 +2,6 @@ Bienvenue au Blog de la plateforme Uluumy
 
 ![](images/UluumyLogo.png)
 
-## This is a title
+## Lien vers notre plateforme
 
 [uluumy](https://www.uluumy.com).  
